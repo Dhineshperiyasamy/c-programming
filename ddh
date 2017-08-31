@@ -1,0 +1,12 @@
+#include<iostream.h>
+viod main()
+{ int n;
+cin>>n;
+if(n>1)
+{
+cout<< 53;
+}
+if(n<1)
+{ 
+cout<< 0;
+}}
